@@ -1,0 +1,29 @@
+{
+  "name": "rz-des",
+  "version": "1.0.0",
+  "description": "nodejs中的加密解密方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roc-zhou/rz-des.git"
+  },
+  "keywords": [
+    "3des",
+    "des",
+    "node-des",
+    "des-ede3",
+    "aes-128-cbc"
+  ],
+  "author": "Roc-zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roc-zhou/rz-des/issues"
+  },
+  "homepage": "https://github.com/Roc-zhou/rz-des#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
