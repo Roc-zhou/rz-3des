@@ -11,6 +11,8 @@ yarn add rz-des
 ### use
 ```js
 const Des = require('rz-des')
+or
+import Des from 'rz-des'
 
 const $util = new Des({
   alg: 'aes-128-cbc',

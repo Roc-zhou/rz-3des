@@ -1,6 +1,6 @@
 {
   "name": "rz-des",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs中的加密解密方法",
   "main": "index.js",
   "scripts": {
