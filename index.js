@@ -1,6 +1,6 @@
 const crypto = require('crypto');
 
-export class Des{
+class Des {
   constructor(params) {
     if (!params.key) throw 'key is required'
     this.key = new Buffer.from(params.key);
@@ -27,5 +27,5 @@ export class Des{
   }
 }
 
-// module.exports = Des
+module.exports = Des
 

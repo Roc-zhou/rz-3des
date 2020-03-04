@@ -1,4 +1,4 @@
-import Des from './index'
+const Des = require('./index')
 
 const $util = new Des({
   key: '751f621ea5c8f930',
